@@ -1,1 +1,1 @@
-# DataCiteRepository
+# Arctic magnetic data
